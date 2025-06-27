@@ -24,3 +24,4 @@ x=[50,2,1,4]
 x+=var2
 print(x)  # Output: [50, 2, 1, 4, 1, 2, 3]
 
+# List is ordered, so we can access elements by index
