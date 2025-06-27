@@ -1,3 +1,4 @@
+# Encapsulation 
 class Color():
     def red(self):
         print("Red")
